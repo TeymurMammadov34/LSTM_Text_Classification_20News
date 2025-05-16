@@ -58,4 +58,8 @@ Model test verisi üzerinde yaklaşık olarak şu sonuçları vermektedir:
 
 **Not:** Sonuçlar kullanılan token sayısı, **LSTM** hücre sayısı, dropout oranı gibi hiperparametrelere göre değişebilir.
 
-**Hazırlayan:** Teymur Mammadov
+
+
+## 👨‍💻 Geliştirici
+
+**Teymur Mammadov** 
